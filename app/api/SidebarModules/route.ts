@@ -91,6 +91,7 @@ const DEFAULT_SIDEBAR_MODULES = [
       { title: "Purchase Orders",      url: "/stock/purchase-orders" },
       { title: "Suppliers",            url: "/stock/suppliers" },
       { title: "SPF Products",         url: "/stock/spf-products" },
+      { title: "BuildChem Products",   url: "/stock/buildchem-products" },
       { title: "All Products",         url: "/stock/products" },
       { title: "Firebase Credentials", url: "/stock/credentials" },
     ],
